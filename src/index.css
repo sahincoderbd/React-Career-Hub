@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #000000;
+  --color-secondary: #ffffff;
+  --color-gradient1: #7E90FE;
+  --color-gradient2: #9873FF;
+ 
+}
